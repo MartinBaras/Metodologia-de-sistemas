@@ -1,0 +1,20 @@
+Usuarios:
+Se podrían dividir en dos modalidades, emisor y receptor. El emisor es quien realiza el envío del paquete o carta, mientras que el receptor es quien lo recibe en el destino final. Ambos interactúan en distintas etapas del sistema.
+
+Administración:
+Se encarga de organizar y controlar el funcionamiento general del sistema, gestionando los registros de envíos, ingresos y recursos utilizados, generalmente mediante planillas manuales.
+
+Auditores / control de calidad / verificadores:
+Son quienes supervisan que el proceso de envío se realice correctamente, verificando que los datos estén bien registrados, que los paquetes lleguen a destino y que se cumplan las normas establecidas.
+
+Analistas de sistemas:
+En este caso, analizan cómo funciona el sistema manual de envíos, identificando posibles mejoras en los procesos, tiempos y organización del trabajo.
+
+Diseñadores de sistemas:
+Proponen cómo debería organizarse el sistema para ser más eficiente, por ejemplo mejorando los formularios, registros o la forma en que se clasifican los envíos.
+
+“Programadores” (adaptado al sistema manual):
+Aunque no hay programación como tal, serían quienes implementan los cambios propuestos, aplicando nuevas formas de trabajo o métodos dentro del sistema.
+
+Testers (probadores):
+Se encargan de verificar que los cambios o mejoras implementadas funcionen correctamente, comprobando que el sistema siga cumpliendo su objetivo sin errores.
